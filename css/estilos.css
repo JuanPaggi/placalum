@@ -85,6 +85,11 @@ body{
   height: 400px;
 }
 
+.formulario{
+  background-color: white;
+  border: 1px solid #c1c1fb;
+}
+
 /*----- FOOTER -----*/
 .copyright{
   display: flex;
